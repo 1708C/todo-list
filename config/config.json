@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "u589272722_todo_sequelize",
+    "password": ":icg2kL7Y",
+    "database": "u589272722_todo_sequelize",
+    "host": "194.163.35.151",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "test": {
+    "username": "u589272722_todo_sequelize",
+    "password": null,
+    "database": "u589272722_todo_sequelize",
+    "host": "194.163.35.151",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "u589272722_todo_sequelize",
+    "password": null,
+    "database": "u589272722_todo_sequelize",
+    "host": "194.163.35.151",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  }
+}
